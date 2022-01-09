@@ -1,2 +1,2 @@
 - Rainfall.dbf: Extracted rainfall values for each 1km pixel in the study area.
-- xx
+- Rainfall_TIMESAT_Years.csv: Aligns rainfall data years with TIMESAT (vegetation data) years to calculate vegetation-rainfall residuals.
