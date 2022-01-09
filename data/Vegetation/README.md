@@ -1,2 +1,1 @@
-- Each text file within the zipped folder provides the raw output from the TIMESAT program, which calculates robust time series vegetation metrics from NDVI time-series data.
-- "TIMESAT_85to93.txt" provides TIMESAT data extracted for the years 1985-1993 (NDVI dataset before the 1994 sensor failure) and "TIMESAT_95to06.txt" provides TIMESAT data extracted from the years 1985-2006 (NDVI dataset after the 1994 sensor failure).
+Each text file within the zipped folder provides the raw outputs from the TIMESAT program, which calculates robust time series vegetation metrics from NDVI time-series data.
