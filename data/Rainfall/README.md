@@ -1,1 +1,2 @@
-Rainfall data
+- Rainfall.dbf: Extracted rainfall values for each 1km pixel in the study area.
+- xx
