@@ -1,5 +1,5 @@
 #  R scripts for the K2C vegetation change analysis:
-- 1_DataPrep.R: 
+- 1_DataPrep.R: Calculates residuals between vegetation and rainfall time-series datasets and k-means clusters.
 - 2_MeanVariance_Plots.R
 - 3_PERMANOVA.R
 - 4_NMDS_Plots.R
