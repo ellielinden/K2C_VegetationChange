@@ -4,3 +4,4 @@ R scripts for the K2C vegetation change analysis
 - 3_PERMANOVA.R: Calculates distance metrics and runs Permutational Multivariate Analysis of Variance (PERMANOVA).
 - 4_NMDS_Plots.R: Visualizs clusters across coordinate space using Nonmetric Multidimensional Scaling (NMDS) plots.
 - 5_TimeSeries_Plots.R: Plot vegetation-rainfall residuals over time (Early, Transition, Late), symbolized by Management Type (Closed, Open, KNP).
+- 6_TukeyHSD.R: Runs the post-hoc Tukey HSD test.
